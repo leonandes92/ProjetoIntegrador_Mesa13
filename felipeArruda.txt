@@ -1,2 +1,6 @@
 Me chamo Felipe, tenho 27 anos. Sou gaúcho, de Santa Maria RS.
 Formado em engenharia ambiental e fazendo transição de carreira.
+
+Pergunta:
+Felipe qual área você pretende trabalhar após o fim do curso, front end ou back end ?
+Ass: Anna
